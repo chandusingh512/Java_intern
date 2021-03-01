@@ -1,0 +1,11 @@
+{
+    "elements": {},
+    "attributes": {
+        "alt": {
+            "context": "a"
+        },
+        "<img": {
+            "context": "a"
+        }
+    }
+}
