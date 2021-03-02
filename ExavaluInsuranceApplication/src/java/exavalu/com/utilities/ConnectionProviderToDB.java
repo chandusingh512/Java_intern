@@ -36,7 +36,7 @@ public class ConnectionProviderToDB {
      *
      * @return
      */
-    public Connection getConnection(String filePath) {
+    public static Connection getConnection(String filePath) {
 
         Connection connection = null;
         try {
